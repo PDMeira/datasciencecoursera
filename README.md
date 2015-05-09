@@ -1,4 +1,6 @@
 # datasciencecoursera
+# Data Science Specialization
+## Data Science Specialization
 ### Data Science Specialization 
 
 * Uses R 
